@@ -1,27 +1,5 @@
 # Agentic-AI
-agentic-ai-crewai-assignment/
-│
-├── README.md
-│
-├── 01-personal-ai-assistant-crewai/
-│   ├── main.py
-│   ├── crew.py
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── README.md
-│   ├── ASSIGNMENT_REPORT.md
-│   ├── .env.example
-│   ├── .gitignore
-│   ├── tools/
-│   └── data/
-│
-└── 02-automated-email-reporting-crewai/
-    ├── main.py
-    ├── crew.py
-    ├── requirements.txt
-    ├── README.md
-    ├── ASSIGNMENT_REPORT.md
-    ├── .env.example
-    ├── .gitignore
-    ├── tools/
-    └── data/
+# Task 1
+https://colab.research.google.com/drive/14M-oapNleKFYKj7C7bBWFF23Bo5DAecE
+# Task 2
+https://colab.research.google.com/drive/1sMNfh6gYEqAbhbz_fbncr69Po8iu9JHC
